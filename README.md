@@ -12,7 +12,7 @@ I'm a passionate Big Data developer from Punto Fijo, Venezuela living in Madrid,
 
 **About me**
 
-- 💼 Currently looking for job
+- 💼 Currently Data Engineer Intern for Bipi.
 
 - ❤️ I love programming almost as much as I love pop-punk. 
 
